@@ -1,0 +1,16 @@
+Package: com.mins.ttweak
+Version: 0.0.1-345+debug
+Architecture: iphoneos-arm
+Maintainer: Mins
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, jetslammed, ws.hbang.common, zip, tar, unzip, gzip, unrar, p7zip, openssh, curl,applist
+Filename: ./debs/com.mins.ttweak_0.0.1-345+debug_iphoneos-arm.deb
+Size: 1151338
+MD5sum: 3a3903d7348808bb7bc9454ec4258a68
+SHA1: 0447876e2f4376294e0f98462a6bf594a1da2742
+SHA256: 32b93a77226944e7c226aea3da26b62f69f86ef55ae2d89aa048f27992ba0c15
+Section: System
+Description: An awesome tool of some sort!!
+Author: Mins
+Installed-Size: 5564
+Name: TTweak
+Tag: role::hacker
